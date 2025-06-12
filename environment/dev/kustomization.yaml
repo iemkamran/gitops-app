@@ -1,5 +1,0 @@
-resources:
-  - ../../apps
-
-patchesStrategicMerge:
-  - patch-deployment.yaml
